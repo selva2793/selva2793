@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selvamani</h1>
 <h3 align="center">A pragmatic Mobile Application developer</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **iOS Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/selva2793](https://github.com/selva2793)
 
